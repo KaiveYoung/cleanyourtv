@@ -1,0 +1,13 @@
+com.tcl.bootadservice
+com.tcl.wholenetsearch
+com.tcl.common.weather
+com.tcl.appreciate.art
+com.tcl.ffkaraoke
+com.tcl.ffeducation
+com.tcl.videocall
+com.tcl.browser
+com.tcl.playskill
+com.tcl.repairguide
+com.tcl.logkit
+com.hunantv.market
+com.ukids.client.tv
